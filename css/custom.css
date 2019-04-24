@@ -1,0 +1,48 @@
+body
+{
+  color:#555;
+}
+div {
+    //border:1px solid #333;
+  }
+  nav
+  {
+    font-size:90%;
+  }
+  #basic-addon1
+  {
+    cursor:pointer;
+  }
+  #first
+  {
+    text-align:center;
+  }
+  #overlay
+  {
+    position:absolute; top:0;right:0; background:rgba(50,50,50,0.7);
+  }
+  #second,#third
+  {
+    //border-right:1px solid #555;
+    width:85%;
+  }
+  .h3s
+  {
+    width:70%;
+  }
+  #shadow
+  {
+  box-shadow: 5px 3px 4px 2px #888888;
+}
+.shadow
+  {
+  box-shadow: 5px 3px 4px 5px #333333;
+}
+.opa-50
+{
+  opacity:0.5;
+}
+.spac-20
+{
+  word-spacing: 0px;
+}
