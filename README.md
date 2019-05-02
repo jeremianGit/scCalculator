@@ -1,2 +1,0 @@
-# scCalculator
-Scientific Calculator
